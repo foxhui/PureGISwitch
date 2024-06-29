@@ -7,7 +7,7 @@
 
 ### 通过Release下载使用（推荐）
 单一个exe文件，方便操作
-- 通过Release下载文件，并把文件放在一个空白的文件夹中
+- 通过![Release](https://github.com/foxhui/PureGISwitch/releases)下载文件，并把文件放在一个空白的文件夹中
 - 运行一次`PureGISwitch.exe`以释放所需依赖和配置文件
 - 填写配置文件，打开`setting.ini`根据备注指引填写路径地址
 - 再次运行`PureGISwitch.exe`即可使用
@@ -36,4 +36,16 @@ auto_startup=true
 
 auto_startup_path=
 
+```
+
+### 文件来源
+```
+GNU Win：https://sourceforge.net/projects/gnuwin32/files/sed/
+└─ libiconv2.dll
+└─ libintl3.dll
+└─ regex2.dll
+└─ winsed.exe
+
+B服游戏包
+└─ PCGameSDK.dll
 ```
