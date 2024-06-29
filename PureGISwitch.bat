@@ -43,7 +43,7 @@ goto end
 
 :option2
 .\assets\winsed -i -c "s/channel=[0-9]*/channel=14/; s/cps=[a-zA-Z0-9]*/cps=bilibili/; s/sub_channel=[0-9]*/sub_channel=0/" "%genshin_path%\config.ini"
-copy PCGameSDK.dll "%genshin_path%\YuanShen_Data\Plugins\"
+copy .\assets\PCGameSDK.dll "%genshin_path%\YuanShen_Data\Plugins\"
 del sed*
 echo 已切换至：B服
 goto end
