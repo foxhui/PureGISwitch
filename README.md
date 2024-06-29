@@ -38,6 +38,7 @@ auto_startup_path=
 
 ```
 
+## 声明
 ### 文件来源
 ```
 GNU Win：https://sourceforge.net/projects/gnuwin32/files/sed/
@@ -49,3 +50,6 @@ GNU Win：https://sourceforge.net/projects/gnuwin32/files/sed/
 B服游戏包
 └─ PCGameSDK.dll
 ```
+
+### 免责声明
+本工具原理很简单，只是简单修改`config.ini`和添加或删除`PCGameSDK.dll`，并没有对游戏进行注入修改，若您非常顾虑是否使用，请立即停止使用，使用后的后果自负，工具和工具作者不承担任何责任
