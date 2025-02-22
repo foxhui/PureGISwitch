@@ -9,7 +9,7 @@
 单一个exe文件，方便操作
 - 通过[Release](https://github.com/foxhui/PureGISwitch/releases)下载文件，并把文件放在一个空白的文件夹中
 - 运行`PureGISwitcher.exe`
-- 选择游戏目录和游戏入口
+- 选择游戏目录和游戏入口（如果需要搭配解帧工具使用，游戏入口则选择解帧工具）
 - Enjoy(:
 
 ### 通过Niva自行构建
@@ -18,7 +18,7 @@
 - 将仓库克隆或下载，导入Niva
 - 点击构建
 - 运行`PureGISwitcher.exe`
-- 选择游戏目录和游戏入口
+- 选择游戏目录和游戏入口（如果需要搭配解帧工具使用，游戏入口则选择解帧工具）
 - Enjoy(:
 
 ## 声明
