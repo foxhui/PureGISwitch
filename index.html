@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/style.css">
+</head>
+
+<body>
+    <div class="site-list">
+        <a class="item" href="javascript:void(0);" id="2mi">
+            <img class="item-img" src="./images/mihoyo.png">
+            <div class="item-title">
+                <span>米哈游</span>
+                <span>切换至官服并开始游戏</span>
+            </div>
+            <i class="item-arrow icon-arrow"></i>
+        </a>
+        <a class="item" href="javascript:void(0);" id="2bl">
+            <img class="item-img" src="./images/bili.webp">
+            <div class="item-title">
+                <span>哔哩哔哩</span>
+                <span>切换至B服并开始游戏</span>
+            </div>
+            <i class="item-arrow icon-arrow"></i>
+        </a>
+    </div>
+    <div class="file-mark-input">
+        <input type="text" placeholder="选择游戏目录" id="folder" disabled>
+        <button type="button" id="saveFolder">选择并保存</button>
+    </div>
+    <div class="file-mark-input">
+        <input type="text" placeholder="选择游戏入口" id="file" disabled>
+        <button type="button" id="saveFile">选择并保存</button>
+    </div>
+    <script type="text/javascript" src="./src/script.js"></script>
+</body>
+
+</html>

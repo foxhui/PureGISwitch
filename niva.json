@@ -1,0 +1,14 @@
+{
+  "name": "PureGISwitcher",
+  "icon": "images/mihoyo.png",
+  "uuid": "5a5249d3-8000-4526-b0de-51368fa67e40",
+  "window": {
+    "icon": "images/mihoyo.png",
+    "size": {
+        "width": 290,
+        "height": 280
+    },
+    "resizable": false,
+    "title": "请选择服务器"
+  }
+}
