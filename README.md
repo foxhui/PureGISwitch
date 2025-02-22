@@ -1,4 +1,4 @@
-# PureGISwitch
+# PureGISwitcher
 纯净的原神官服与B服互切换工具
 
 ## 使用
